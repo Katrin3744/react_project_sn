@@ -3,6 +3,12 @@
     grid-area: cont;
     background-color: aliceblue;
 }
+.posts{
+
+}
 .item{
 color:greenyellow;
+}
+.item img{
+    width: 50px;
 }
